@@ -45,7 +45,7 @@ void quickSort(int* a, int l, int r)
 int main()
 {
 	int i;
-	int a[] = { 30,40,60,10,20,50 };
+	int a[] = { 30,40,60,10,20,50 ,11,56,2,78};
 	int ilen = (sizeof(a)) / (sizeof(a[0]));
 
 	cout << "before sort:";
